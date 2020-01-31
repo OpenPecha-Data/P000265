@@ -1,0 +1,37 @@
+ebook_metadata:
+  title: ༄༅། །གྲུབ་པའི་དབང་ཕྱུག་ཆེན་པོ་རྗེ་བཙུན་དམ་པ་སངས་རྒྱས་ཀྱི་རྣམ་པར་ཐར་པ་དངོས་གྲུབ་འོད་སྟོང་འབར་བའི་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ།
+    །
+  authors:
+  - མཛད་པ་པོ། ཆོས་ཀྱི་སེང་གེ ༼མཁའ་སྤྱོད་དགྱེས་པའི་རྡོ་རྗེ།༽
+  sku: LS-ZHI-05-01
+  layers:
+  - book_title
+  - author
+  - chapter_title
+web_metadata:
+  title:
+    en: The Sun with a Thousand Rays of Shining Siddhis:A Biography of the Great Yogi
+      Dampa Sangye
+    bo: གྲུབ་པའི་དབང་ཕྱུག་ཆེན་པོ་རྗེ་བཙུན་དམ་པ་སངས་རྒྱས་ཀྱི་རྣམ་པར་ཐར་པ་དངོས་གྲུབ་འོད་སྟོང་འབར་བའི་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ།
+  collection:
+    en: Zhije Series–  Book 5-1
+    bo: ཞི་བྱེད།–  དེབ། ༥-༡
+  author:
+    en: Chokyi Senge (Khacho Gyepe Dorje)
+    bo: ཆོས་ཀྱི་སེང་གེ ༼མཁའ་སྤྱོད་དགྱེས་པའི་རྡོ་རྗེ།༽
+  pusblisher:
+    en: Dingri Langkor Zhijed Ling
+    bo: དིང་རི་གླང་སྐོར་ཞི་བྱེད་གླིང་།
+  sku: LS-ZHI-05-01
+  category:
+    en: ''
+    bo: ''
+  org:
+    bo: Timeless Treasuries
+    en: མཐའ་ཡས་དཔེ་མཛོད།
+  website: http://dharmacloud.tsadra.org
+  aquisition_data: '2019-07-18'
+  filename: LS-ZHI-05-01.epub
+  description:
+    en: ''
+    bo: ''

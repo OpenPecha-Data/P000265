@@ -1,13 +1,15 @@
-ebook_metadata:
+id: P000265
+initial_creation_type: ebook
+source_metadata:
   title: ༄༅། །གྲུབ་པའི་དབང་ཕྱུག་ཆེན་པོ་རྗེ་བཙུན་དམ་པ་སངས་རྒྱས་ཀྱི་རྣམ་པར་ཐར་པ་དངོས་གྲུབ་འོད་སྟོང་འབར་བའི་ཉི་མ་ཞེས་བྱ་བ་བཞུགས་སོ།
     །
   authors:
   - མཛད་པ་པོ། ཆོས་ཀྱི་སེང་གེ ༼མཁའ་སྤྱོད་དགྱེས་པའི་རྡོ་རྗེ།༽
-  sku: LS-ZHI-05-01
   layers:
   - book_title
   - author
   - chapter_title
+  id: LS-ZHI-05-01
 web_metadata:
   title:
     en: The Sun with a Thousand Rays of Shining Siddhis:A Biography of the Great Yogi

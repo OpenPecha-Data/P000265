@@ -2,59 +2,59 @@ id: f4e042a691664ff7a2a423c9e9451653
 annotation_type: Chapter
 revision: '00001'
 annotations:
-- id: f0530eb9bf594f508362c52586de1a71
-  span:
-    start: 178
-    end: 290
-- id: 285cc6a4679444c4958fda6679de07ff
-  span:
-    start: 292
-    end: 412
-- id: 8075ec23cf98424bb14ec5f8c9d51e39
-  span:
-    start: 2667
-    end: 2695
-- id: 2b76a1011385428a987e710b00344c4d
-  span:
-    start: 7163
-    end: 7183
-- id: 50fd23a6406843f5aa795d2fe3ab800a
-  span:
-    start: 9311
-    end: 9348
-- id: 49bc922af1e1490c87759692ee87dcae
-  span:
-    start: 15655
-    end: 15683
-- id: 6f345a2aba0d459f9fad0fbc0b4e8513
-  span:
-    start: 17670
-    end: 17698
-- id: 79f49c655ff54b3a92b8eb953f13af82
-  span:
-    start: 21044
-    end: 21075
-- id: 20bf3ea938134789a87396d55e2d2d87
-  span:
-    start: 23418
-    end: 23452
-- id: 0bb270bbeff7434e995eef89a804463f
-  span:
-    start: 29891
-    end: 29924
-- id: 0c22ef6be6f64f2daa2ebe463bfc2961
-  span:
-    start: 88416
-    end: 88455
-- id: 30e07b1135f94788a95aa6a201fd57c8
-  span:
-    start: 102765
-    end: 102800
-- id: bc3c38fad7e54a29ac82545dd7e248db
-  span:
-    start: 158542
-    end: 158581
-- id: b33b4202923843d8acb0894b4b326e4d
-  span:
-    start: 228370
-    end: 228396
+  f0530eb9bf594f508362c52586de1a71:
+    span:
+      start: 178
+      end: 290
+  285cc6a4679444c4958fda6679de07ff:
+    span:
+      start: 292
+      end: 412
+  8075ec23cf98424bb14ec5f8c9d51e39:
+    span:
+      start: 2667
+      end: 2695
+  2b76a1011385428a987e710b00344c4d:
+    span:
+      start: 7163
+      end: 7183
+  50fd23a6406843f5aa795d2fe3ab800a:
+    span:
+      start: 9311
+      end: 9348
+  49bc922af1e1490c87759692ee87dcae:
+    span:
+      start: 15655
+      end: 15683
+  6f345a2aba0d459f9fad0fbc0b4e8513:
+    span:
+      start: 17670
+      end: 17698
+  79f49c655ff54b3a92b8eb953f13af82:
+    span:
+      start: 21044
+      end: 21075
+  20bf3ea938134789a87396d55e2d2d87:
+    span:
+      start: 23418
+      end: 23452
+  0bb270bbeff7434e995eef89a804463f:
+    span:
+      start: 29891
+      end: 29924
+  0c22ef6be6f64f2daa2ebe463bfc2961:
+    span:
+      start: 88416
+      end: 88455
+  30e07b1135f94788a95aa6a201fd57c8:
+    span:
+      start: 102765
+      end: 102800
+  bc3c38fad7e54a29ac82545dd7e248db:
+    span:
+      start: 158542
+      end: 158581
+  b33b4202923843d8acb0894b4b326e4d:
+    span:
+      start: 228370
+      end: 228396
